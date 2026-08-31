@@ -1,2 +1,8 @@
-# Face-Recognition-Attendance-System.
-AI Biometric Attendance System built using Python, OpenCV, Tkinter GUI, and MySQL Database.
+# AI Biometric Face Recognition Attendance System
+Python-based project using OpenCV, Tkinter UI, and MySQL database.
+
+## 🚀 Features
+* Live face tracking using standard web-cam
+* Automatic database & table management (MySQL)
+* Double logs prevention for the same student on the same day
+* Export clean analytics report to formatted Excel sheet (.xlsx)
