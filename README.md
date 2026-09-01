@@ -4,7 +4,7 @@
 ![Login Dashboard](ai2.PNG)
 
 ### Attendance Dashboard
-![Attendance Dashboard](ai1.PNG)
+![Attendance Dashboard](ai3.PNG)
 
 # AI Biometric Face Recognition Attendance System
 Python-based project using OpenCV, Tkinter UI, and MySQL database.
